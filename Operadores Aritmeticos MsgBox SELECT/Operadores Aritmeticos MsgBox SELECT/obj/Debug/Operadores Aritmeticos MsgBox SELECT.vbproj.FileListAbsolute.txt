@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\bin\Debug\Operadores Aritmeticos MsgBox SELECT.exe.config
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\bin\Debug\Operadores Aritmeticos MsgBox SELECT.exe
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\bin\Debug\Operadores Aritmeticos MsgBox SELECT.pdb
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\bin\Debug\Operadores Aritmeticos MsgBox SELECT.xml
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores Aritmeticos MsgBox SELECT.vbprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores_Aritmeticos_MsgBox_SELECT.Form1.resources
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores_Aritmeticos_MsgBox_SELECT.Resources.resources
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores Aritmeticos MsgBox SELECT.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores Aritmeticos MsgBox SELECT.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores Aritmeticos MsgBox SELECT.exe
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores Aritmeticos MsgBox SELECT.xml
+C:\Users\Acer\source\repos\Operadores Aritmeticos MsgBox SELECT\Operadores Aritmeticos MsgBox SELECT\obj\Debug\Operadores Aritmeticos MsgBox SELECT.pdb
